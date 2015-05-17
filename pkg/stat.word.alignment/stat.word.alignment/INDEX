@@ -1,0 +1,18 @@
+Evaluation1             Evaluation of word alignment quality
+RmTokenizer             Remove punctuation characters and tokenization
+Symmetrization          Calculating heuristic word alignment named
+                        symmetrization
+consExcel               Create an excel file from two sentences
+culf                    make a string's first n characters lowercase
+fix.gold                Constructing a crosstabulate matrix of source
+                        language words vs target language words of a
+                        given sentence pair
+mydictionary            Building a suggested dictionary
+preparData              Initial preparations of bitext before word
+                        alignment and its evaluation
+squareN                 Finding neighborhood locations
+stat.word.alignment-package
+                        Finding word alignment using IBM model 1 for a
+                        given parallel corpus and its evaluation
+word_alignIBM1          Finding many-to-one word alignment using IBM
+                        model 1 for a given parallel corpus
