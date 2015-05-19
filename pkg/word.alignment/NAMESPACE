@@ -1,0 +1,13 @@
+export(
+"consExcel",
+"culf",
+"Evaluation1",
+"fix.gold",
+"mydictionary",
+"preparData",
+"RmTokenizer",
+"squareN",
+"Symmetrization",
+"word_alignIBM1")
+
+import("data.table", "tm", "openxlsx")
