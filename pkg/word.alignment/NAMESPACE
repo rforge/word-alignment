@@ -1,0 +1,17 @@
+export(
+"consExcel",
+"culf",
+"Evaluation1",
+"fix.gold",
+"mydictionary",
+"preparData",
+"RmTokenizer",
+"squareN",
+"Symmetrization",
+"word_alignIBM1")
+
+import("data.table", "openxlsx")
+
+
+S3method(print, alignment)
+S3method(print, symmet)
